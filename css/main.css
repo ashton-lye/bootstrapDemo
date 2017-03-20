@@ -3,7 +3,11 @@ body {
 
 }
 
-div.header-image img{
-    height: 200px;
-    
+img.d-block {
+    width: 80%;
+    height: auto;
 }
+/*div.panel {
+    width: 80%;
+
+}*/

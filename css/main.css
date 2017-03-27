@@ -1,5 +1,6 @@
 body {
     background-image: url("../images/background1.jpg");
+    background-size: 100%;
 }
 
 img.d-block {
@@ -7,3 +8,6 @@ img.d-block {
     height: auto;
 }
 
+div.infopanel {
+    background-color: #133c61!important
+}

@@ -3,9 +3,10 @@ body {
     background-size: 100%;
 }
 
-img.d-block {
-    width: 80%;
+img.img-rounded {
+    width: 50%;
     height: auto;
+    margin-left: 20%;
 }
 
 div.infopanel {
